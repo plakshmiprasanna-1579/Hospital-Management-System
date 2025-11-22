@@ -82,8 +82,8 @@ If you are using VS Code:
 5. Run the program
 
 Screenshots:
-
-1. <img width="280" height="399" alt="image" src="https://github.com/user-attachments/assets/ba124c7e-b72e-44e6-b966-d488fe949398" />
+1. 
+ <img width="280" height="399" alt="image" src="https://github.com/user-attachments/assets/ba124c7e-b72e-44e6-b966-d488fe949398" />
 
 
 2. <img width="337" height="535" alt="image" src="https://github.com/user-attachments/assets/4e69c2fb-1aac-4f37-be80-e46ee53fd200" />
