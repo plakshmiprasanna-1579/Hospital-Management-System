@@ -83,7 +83,6 @@ If you are using VS Code:
 
 Screenshots:
 
-https://github.com/plakshmiprasanna-1579/Hospital-Management-System/blob/6669f906fe580088b0c875ba8e5b2789da427f39/Screenshot%202025-11-22%20234530.png
 
 <img width="337" height="535" alt="image" src="https://github.com/user-attachments/assets/4e69c2fb-1aac-4f37-be80-e46ee53fd200" />
 
