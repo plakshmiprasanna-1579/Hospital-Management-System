@@ -1,13 +1,16 @@
 TITLE
+
 Hospital Management System in C
 
 ABSTRACT
+
 This project is a simple Hospital Management System built using the C programming language.
 It allows you to store, update, search, and delete patient records.
 The program also supports managing appointment details.
 All information is saved using file handling so the data remains available even after closing the program.
 
 FEATURES OF THE PROGRAM
+
 Add new patient records
 View all patient details
 Search for a patient by ID
@@ -18,6 +21,7 @@ Data stored using files
 Simple and user-friendly menu system
 
 FUNCTIONAL REQUIREMENTS
+
 User should be able to:
 Enter patient information
 Modify or delete patient data
@@ -28,6 +32,7 @@ Program must validate inputs
 Program must save all data in files (.dat files)
 
 TECHNICAL REQUIREMENTS
+
 Programming Language: C
 Compiler: GCC / MinGW / CodeBlocks / VS Code C Compiler
 Header Files Used:
