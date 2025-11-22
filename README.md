@@ -82,4 +82,4 @@ If you are using VS Code:
 5. Run the program
 
 Screenshots:
-https://github.com/plakshmiprasanna-1579/Hospital-Management-System/blob/a1e5bd903045a6cdeaad6dd79d62ab4018b640a4/Screenshot%202025-11-22%20234530.png
+<img width="280" height="399" alt="image" src="https://github.com/user-attachments/assets/6be13cea-d79a-493a-99a0-8d31981d899a" />
