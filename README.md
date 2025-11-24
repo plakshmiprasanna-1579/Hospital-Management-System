@@ -82,7 +82,9 @@ If you are using VS Code:
 5. Run the program
 
 Screenshots:
- 
+
+ <img width="314" height="184" alt="image" src="https://github.com/user-attachments/assets/b4a7e338-ec25-4c7b-b051-a9184db96afa" />
+
  
 
 
