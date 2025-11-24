@@ -83,23 +83,7 @@ If you are using VS Code:
 
 Screenshots:
  
- 1. <img width="280" height="399" alt="image" src="https://github.com/user-attachments/assets/ba124c7e-b72e-44e6-b966-d488fe949398" />
-
-
-2. <img width="337" height="535" alt="image" src="https://github.com/user-attachments/assets/4e69c2fb-1aac-4f37-be80-e46ee53fd200" />
-
-3. <img width="298" height="546" alt="image" src="https://github.com/user-attachments/assets/4bd2ee48-9193-4835-be36-93d53937aeb2" />
-
-4. <img width="354" height="457" alt="image" src="https://github.com/user-attachments/assets/4b71237d-3d92-46bc-85df-247156e0d800" />
-
-5. <img width="343" height="638" alt="image" src="https://github.com/user-attachments/assets/9816ea15-56f9-474b-911e-4ca5007fca14" />
-
-6. <img width="870" height="308" alt="image" src="https://github.com/user-attachments/assets/5f2d48bb-8777-4b0e-9125-c5c84d645531" />
-
-7. <img width="364" height="477" alt="image" src="https://github.com/user-attachments/assets/448daf6f-89b3-4f00-8d8c-0381493ed411" />
-
-
-8. <img width="342" height="248" alt="image" src="https://github.com/user-attachments/assets/a964559f-23de-4cf5-996f-0a80ca7407b6" />
+ 
 
 
 
