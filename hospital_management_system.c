@@ -33,10 +33,7 @@ typedef struct {
     char room[MAX_Room_LEN];
     char blood_group[MAX_Blood_LEN];
     char emergency_contact[MAX_Emergency_LEN];
-    char admission_date[MAX_Date_LEN];
-    char discharge_date[MAX_Date_LEN];
-    char treatment_status[MAX_Status_LEN];
-    double bill_amount;
+    
 } Patient;
 typedef struct {
     int appt_id;
@@ -595,4 +592,5 @@ void writeAllAppointments(Appointment appointments[], int count) {
 
     fwrite(appointments, sizeof(Appointment), count, fp);
     fclose(fp);
+
 }
