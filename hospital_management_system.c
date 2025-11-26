@@ -295,9 +295,7 @@ void updatePatient() {
         if (patients[i].id == id) {
             found = 1;
 
-            printf("Enter new Name: ");
-            fgets(patients[i].name, sizeof(patients[i].name), stdin);
-            patients[i].name[strcspn(patients[i].name, "\n")] = '\0';
+           
 
             printf("Enter new Age: ");
             scanf("%d", &patients[i].age);
@@ -323,10 +321,7 @@ void updatePatient() {
             fgets(patients[i].room, sizeof(patients[i].room), stdin);
             patients[i].room[strcspn(patients[i].room, "\n")] = '\0';
 
-            printf("Enter new Blood Group: ");
-            fgets(patients[i].blood_group, sizeof(patients[i].blood_group), stdin);
-            patients[i].blood_group[strcspn(patients[i].blood_group, "\n")] = '\0';
-
+            
             printf("Enter new Emergency Contact: ");
             fgets(patients[i].emergency_contact, sizeof(patients[i].emergency_contact), stdin);
             patients[i].emergency_contact[strcspn(patients[i].emergency_contact, "\n")] = '\0';
@@ -594,3 +589,4 @@ void writeAllAppointments(Appointment appointments[], int count) {
     fclose(fp);
 
 }
+
